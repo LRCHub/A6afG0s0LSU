@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Song For The Dead",
+  "base_artist": "Queens Of The Stone Age",
+  "createdAt": "2026-02-10T03:18:00.753996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Song For the Dead",
+      "artist": "Tank",
+      "has_synced": true,
+      "path": "select/01_Song_For_the_Dead_Tank.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Song for the dead",
+      "artist": "Antidote",
+      "has_synced": true,
+      "path": "select/02_Song_for_the_dead_Antidote.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Song for the Dead",
+      "artist": "Alexander Wolfe",
+      "has_synced": false,
+      "path": "select/03_Song_for_the_Dead_Alexander_Wolfe.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Song for the Dead",
+      "artist": "Randy Newman",
+      "has_synced": true,
+      "path": "select/04_Song_for_the_Dead_Randy_Newman.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Song for the Dead",
+      "artist": "Exhumed",
+      "has_synced": false,
+      "path": "select/05_A_Song_for_the_Dead_Exhumed.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Song For The Dead",
+      "artist": "Beyond Obsession",
+      "has_synced": false,
+      "path": "select/06_Song_For_The_Dead_Beyond_Obsession.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Song For The Dead",
+      "artist": "Newman, Randy",
+      "has_synced": true,
+      "path": "select/07_Song_For_The_Dead_Newman,_Randy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Song for the Dead",
+      "artist": "Sea Wolf",
+      "has_synced": true,
+      "path": "select/08_Song_for_the_Dead_Sea_Wolf.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Song For The Dead",
+      "artist": "Qotsa",
+      "has_synced": true,
+      "path": "select/09_A_Song_For_The_Dead_Qotsa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Song for the Dead",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/10_Song_for_the_Dead_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Song For The Dead",
+      "artist": "Randy Newman",
+      "has_synced": false,
+      "path": "select/11_Song_For_The_Dead_Randy_Newman.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Song For The Dead",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/12_Song_For_The_Dead_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Song for the Dead",
+      "artist": "Randy Newman",
+      "has_synced": true,
+      "path": "select/13_Song_for_the_Dead_Randy_Newman.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Song For The Dead",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/14_Song_For_The_Dead_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Song for the Dead",
+      "artist": "Thundercat",
+      "has_synced": true,
+      "path": "select/15_Song_for_the_Dead_Thundercat.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Song for the Dead",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/16_Song_for_the_Dead_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Song for the Dead",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/17_Song_for_the_Dead_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Song For The Dead",
+      "artist": "Queens Of The Stone Age",
+      "has_synced": false,
+      "path": "select/pl_01_Song_For_The_Dead_Queens_Of_The_Stone_Age.txt"
+    }
+  ]
+}
